@@ -1,11 +1,10 @@
 [Lokesh Reddy]'s Portfolio<br/>
 Welcome to my portfolio! This portfolio showcases my projects built using HTML, CSS, and JavaScript, reflecting my skills and experiences in web development.<br/>
-<img src="https://raw.githubusercontent.com/lokesh-reddy14/Portfolio/main/WhatsApp%20Image%202024-04-25%20at%2010.56.19_af8ed115.jpg" alt="lokesh-reddy14" />
 <img src="https://raw.githubusercontent.com/lokesh-reddy14/Portfolio/main/WhatsApp%20Image%202024-04-25%20at%2010.56.06_166178c5.jpg" alt="lokesh-reddy14" />
 <img src="https://raw.githubusercontent.com/lokesh-reddy14/Portfolio/main/WhatsApp%20Image%202024-04-25%20at%2010.55.50_f6aeaa73.jpg" alt="lokesh-reddy14" />
 
 <b>Description:</b> Brief description of the project, highlighting its purpose and key features.<br/>
-<img src="https://raw.githubusercontent.com/lokesh-reddy14/Home/main/WhatsApp%20Image%202024-04-25%20at%2010.39.57_55f6ea68.jpg" alt="lokesh-reddy14" />
+
 
 <b>Technologies Used:</b> HTML, CSS, JavaScript<br/>
 <b>Link: </b>[https://lokesh-reddy14.github.io/Portfolio/]<br/>
